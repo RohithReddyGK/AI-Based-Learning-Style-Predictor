@@ -77,6 +77,11 @@ This project aims to make learning **personalized** by helping users discover ho
    ```
 ---
 
-🙋‍♂️ Author 
-Made with ❤️ by Rohith Reddy.G.K
-🔗 LinkedIn | GitHub
+### 🙋‍♂️ Author 
+Made with ❤️ by **Rohith Reddy.G.K**
+
+🔗 Github: [@RohithReddyGK](https://github.com/RohithReddyGK)  
+🔗 LinkedIn: [@rohithreddygk](https://linkedin.com/in/rohithreddygk)
+
+### Show your support
+Give a ⭐️ if you like this project!
