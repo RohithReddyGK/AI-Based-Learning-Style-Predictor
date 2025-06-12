@@ -20,10 +20,10 @@ An interactive Streamlit web application that helps users identify their **domin
 
 This project aims to make learning **personalized** by helping users discover how they learn best:
 
-- 📊 Uses a trained Machine Learning model
-- 📝 Takes inputs from a custom-designed **10-question** quiz
-- 🧑‍🏫 Predicts if the user is a **Visual, Auditory, or Kinesthetic learner**
-- 💡 Offers **in-depth explanations**, **study tips**, and **useful learning resources** for each style
+- 📊 Uses a trained Machine Learning model.
+- 📝 Takes inputs from a custom-designed **10-question** quiz.
+- 🧑‍🏫 Predicts if the user is a **Visual, Auditory, or Kinesthetic learner**.
+- 💡 Offers **in-depth explanations**, **study tips**, and **useful learning resources** for each style.
 
 ---
 
@@ -47,14 +47,8 @@ This project aims to make learning **personalized** by helping users discover ho
 ├── app.py                    
 ├── learning_style_model.pkl   # Trained ML model 
 ├── questions.json             # Quiz questions 
-├── learning_style_dataset.csv # Dataset used for training (optional)
+├── learning_style_dataset.csv # Dataset used for training 
 ```
----
-
-## 📷 App Preview
-
-![App Screenshot](https://user-images.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/screenshot.png)
-
 ---
 
 ## 🔍 Learning Styles Explained
@@ -69,18 +63,18 @@ This project aims to make learning **personalized** by helping users discover ho
 
 ## 🛠 How to Run Locally
 
-1. **Clone the repogit
+1. **Clone the repogit**
    ```bash
-   git clone https://github.com/RohithReddyGK/AI-Based-Learning-Style-Predictor.git
-```
-2. Install dependencies:
-```bash
-pip install -r requirements.txt
-```
-3. Run the app:
-```bash
-streamlit run app.py
-```
+      git clone                https://github.com/RohithReddyGK/AI-Based-Learning-Style-Predictor.git
+   ```
+2. **Install dependencies:**
+   ```bash
+      pip install -r requirements.txt
+   ```
+3. **Run the app:**
+   ```bash
+      streamlit run app.py
+   ```
 ---
 
 🙋‍♂️ Author 
