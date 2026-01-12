@@ -63,9 +63,9 @@ This project aims to make learning **personalized** by helping users discover ho
 
 ## 🛠 How to Run Locally
 
-1. **Clone the repogit**
+1. **Clone the repogit:**
    ```bash
-      git clone                https://github.com/RohithReddyGK/AI-Based-Learning-Style-Predictor.git
+      git clone https://github.com/RohithReddyGK/AI-Based-Learning-Style-Predictor.git
    ```
 2. **Install dependencies:**
    ```bash
