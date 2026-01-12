@@ -20,7 +20,7 @@ An interactive Streamlit web application that helps users identify their **domin
 
 This project aims to make learning **personalized** by helping users discover how they learn best:
 
-- 📊 Uses a trained Machine Learning model.
+- 📊 Uses a trained Machine Learning model built on ML algorithm i.e., **Random Forest Classifier**.
 - 📝 Takes inputs from a custom-designed **15-question** quiz.
 - 🧑‍🏫 Predicts if the user is a **Visual, Auditory, or Kinesthetic learner**.
 - 💡 Offers **in-depth explanations**, **study tips**, and **useful learning resources** for each style.
